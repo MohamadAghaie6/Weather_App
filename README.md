@@ -1,3 +1,3 @@
 simple weather app using flutter
 
-![uiImage](weather_screen.jpg.png)
+![uiImage](weather_screen.jpg)
