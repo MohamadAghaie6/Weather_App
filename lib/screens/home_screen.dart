@@ -51,8 +51,6 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget getContent(BuildContext context) {
-    // Tokyo latitude//35.652832
-    //Tokyo longitude//139.839478
     //Tehran latitude//35.715298;
     //Tehran longitude//51.404343;
     WeatherInformation myWeatherEzpz = WeatherInformation(
@@ -65,7 +63,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
     return Stack(
       children: [
-        //Puple circle right
+        //Purple circle right
         Align(
           alignment: AlignmentDirectional(2, -0.2),
           child: Container(
